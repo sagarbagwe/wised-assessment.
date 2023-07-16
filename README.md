@@ -13,10 +13,23 @@ Project description goes here.
 - Vite
 - React
 - React Router
-- Axios
-- Express
-- Multer
-- MongoDB
+- - MongoDB
+- Axios![wised3](https://github.com/sagarbagwe/wised-assessment./assets/90025855/a1dc9e37-b1dc-476c-b47b-8268f21f214f)
+
+- Express![wised3](https://github.com/sagarbagwe/wised-assessment./assets/90025855/40ef7dff-e44d-41c0-806b-a836dabf4cb7)
+
+- Multer!![wised1](https://github.com/sagarbagwe/wised-assessment./assets/90025855/6395ac1a-d381-440c-952e-4be887172b74)
+
+
+
+https://github.com/sagarbagwe/wised-assessment./assets/90025855/6bd42047-e1d3-4c97-a3c2-9e66f5ecbda1
+
+
+
+
+
+
+
 
 ## Getting Started
 
